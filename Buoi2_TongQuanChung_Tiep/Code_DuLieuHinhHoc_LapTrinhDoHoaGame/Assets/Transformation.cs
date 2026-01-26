@@ -32,6 +32,8 @@ public class Transformation : MonoBehaviour
         earth.center = translateMatrix.MultiplyToPoint(earth.center);
         translateMatrix.print();
 
+        //implement code to make earth auto rotate arround sun
+
         //earth
         Gizmos.color = Color.blue;
         Gizmos.DrawSphere(earth.center.ToVec3(), earth.radius);
