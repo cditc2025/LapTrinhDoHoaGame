@@ -11,7 +11,7 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - Ôn tập lại một số kiến thức về Toán học trong Game
 
 **Slide bài giảng:**  
-- [Buoi1_TongQuanChung.pdf](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/Bu%E1%BB%95i%201_T%E1%BB%95ng%20quan%20chung.pptx)
+- [Buổi 1: Tổng quan chung](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/Bu%E1%BB%95i%201_T%E1%BB%95ng%20quan%20chung.pptx)
 
 **Tài liệu khác:**  
 - [Đề cương môn học](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/DE%20CUONG%20-%20Lap%20trinh%20do%20hoa%20game.docx)
@@ -24,14 +24,12 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - Làm rõ các khái niệm Bit, Byte, Hình ảnh, Pixel, các dữ liệu đồ họa 2D, 3D, ...
 - Lập trình tương tác va chạm, các phép biến đổi Affine (Translation, Rotation, Scale)
   
-**Slide:**  
-- `Buoi2_TongQuanChung_Tiep/Slide/Buoi2_TongQuanChung_Tiep.pdf`
+**Slide bài giảng:**  
+- [Buổi 2: Tổng quan chung (tiếp theo)](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi2_TongQuanChung_Tiep/Bu%E1%BB%95i%202_T%E1%BB%95ng%20quan%20chung_ti%E1%BA%BFp.pptx)
 
-**Code:**  
-- `Buoi2_TongQuanChung_Tiep/Project/`
-
-**Tài liệu khác:**  
-- `Buoi2_TongQuanChung_Tiep/TaiLieu/`
+**Bài tập, ví dụ minh học:**  
+- [Code minh họa và bài tập](https://github.com/cditc2025/LapTrinhDoHoaGame/tree/main/Buoi2_TongQuanChung_Tiep/Code_DuLieuHinhHoc_LapTrinhDoHoaGame)
+- [Mô hình 3D - cube.obj](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi2_TongQuanChung_Tiep/cube.obj)
 ---
 
 
