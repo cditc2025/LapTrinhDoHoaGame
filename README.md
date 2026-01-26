@@ -5,8 +5,8 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 ---
 ## 📑 Mục lục
 
-- [Buổi 1 – Tổng quan chung](#-🔹-Buổi-1-–-Tổng-quan-chung)
-- [Buổi 2 – Tổng quan chung (tiếp)](#-🔹-Buổi-2-–-Tổng-quan-chung-(tiếp))
+- [Buổi 1 – Tổng quan chung](#-🔹-buổi-1-–-Tổng-quan-chung)
+- [Buổi 2 – Tổng quan chung (tiếp)](#-🔹-buổi-2-–-Tổng-quan-chung-(tiếp))
 
 ## 🔹 Buổi 1 – Tổng quan chung
 **Mục tiêu:**
