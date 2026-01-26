@@ -1,0 +1,37 @@
+# 📘 LapTrinhDoHoaGame
+
+Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục vụ cho việc học tập và giảng dạy môn **Lập trình đồ họa game**.
+
+---
+
+## 🔹 Title: Buổi 1 – Tổng quan chung
+**Mục tiêu:**
+- Làm rõ mục tiêu môn học
+- Giới thiệu các khái niệm cơ bản về lập trình đồ họa trong Game
+- Ôn tập lại một số kiến thức về Toán học trong Game
+
+**Slide:**  
+- `Buoi1_TongQuanChung/Slide/Buoi1_TongQuanChung.pdf`
+
+**Tài liệu khác:**  
+- `Buoi1_TongQuanChung/TaiLieu/`
+---
+
+## 🔹 Title: Buổi 2 – Tổng quan chung (tiếp)
+- Trình bày kĩ hơn các nội dung đã học ở buổi 1
+- Làm rõ các khái niệm Bit, Byte, Hình ảnh, Pixel, các dữ liệu đồ họa 2D, 3D, ...
+- Lập trình tương tác va chạm, các phép biến đổi Affine (Translation, Rotation, Scale)
+  
+**Slide:**  
+- `Buoi2_TongQuanChung_Tiep/Slide/Buoi2_TongQuanChung_Tiep.pdf`
+
+**Code:**  
+- `Buoi2_TongQuanChung_Tiep/Project/`
+
+**Tài liệu khác:**  
+- `Buoi2_TongQuanChung_Tiep/TaiLieu/`
+---
+
+
+📌 GitHub Repository:  
+https://github.com/cditc2025/LapTrinhDoHoaGame
