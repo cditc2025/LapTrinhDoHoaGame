@@ -10,11 +10,13 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - Giới thiệu các khái niệm cơ bản về lập trình đồ họa trong Game
 - Ôn tập lại một số kiến thức về Toán học trong Game
 
-**Slide:**  
-- `Buoi1_TongQuanChung/Slide/Buoi1_TongQuanChung.pdf`
+**Slide bài giảng:**  
+- [Buoi1_TongQuanChung.pdf](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/Bu%E1%BB%95i%201_T%E1%BB%95ng%20quan%20chung.pptx)
 
 **Tài liệu khác:**  
-- `Buoi1_TongQuanChung/TaiLieu/`
+- [Đề cương môn học](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/DE%20CUONG%20-%20Lap%20trinh%20do%20hoa%20game.docx)
+- [Game Graphics Programming - Allen Sherrod](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/Allen%20(Allen%20Sherrod)%20Sherrod%20-%20Game%20Graphics%20Programming-Charles%20River%20Media%20(2008).pdf)
+- [Slide Nhập môn công nghệ Game - Bài toán trong TKPT Game](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/NhapMonCongNgheGame%20Bai%20Toan%20trong%20TKPTGame.pptx)
 ---
 
 ## 🔹 Title: Buổi 2 – Tổng quan chung (tiếp)
