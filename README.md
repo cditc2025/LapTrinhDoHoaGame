@@ -3,8 +3,12 @@
 Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục vụ cho việc học tập và giảng dạy môn **Lập trình đồ họa game**.
 
 ---
+## 📑 Mục lục
 
-## 🔹 Title: Buổi 1 – Tổng quan chung
+- [Buổi 1 – Tổng quan chung](#-🔹-Buổi-1-–-Tổng-quan-chung)
+- [Buổi 2 – Tổng quan chung (tiếp)](#-🔹-Buổi-2-–-Tổng-quan-chung-(tiếp))
+
+## 🔹 Buổi 1 – Tổng quan chung
 **Mục tiêu:**
 - Làm rõ mục tiêu môn học
 - Giới thiệu các khái niệm cơ bản về lập trình đồ họa trong Game
@@ -19,13 +23,13 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - [Slide Nhập môn công nghệ Game - Bài toán trong TKPT Game](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/NhapMonCongNgheGame%20Bai%20Toan%20trong%20TKPTGame.pptx)
 ---
 
-## 🔹 Title: Buổi 2 – Tổng quan chung (tiếp)
+## 🔹 Buổi 2 – Tổng quan chung (tiếp)
 - Trình bày kĩ hơn các nội dung đã học ở buổi 1
 - Làm rõ các khái niệm Bit, Byte, Hình ảnh, Pixel, các dữ liệu đồ họa 2D, 3D, ...
 - Lập trình tương tác va chạm, các phép biến đổi Affine (Translation, Rotation, Scale)
   
 **Slide bài giảng:**  
-- [Buổi 2: Tổng quan chung (tiếp theo)](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi2_TongQuanChung_Tiep/Bu%E1%BB%95i%202_T%E1%BB%95ng%20quan%20chung_ti%E1%BA%BFp.pptx)
+- [Buổi 2: Tổng quan chung (tiếp)](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi2_TongQuanChung_Tiep/Bu%E1%BB%95i%202_T%E1%BB%95ng%20quan%20chung_ti%E1%BA%BFp.pptx)
 
 **Bài tập, ví dụ minh học:**  
 - [Code minh họa và bài tập](https://github.com/cditc2025/LapTrinhDoHoaGame/tree/main/Buoi2_TongQuanChung_Tiep/Code_DuLieuHinhHoc_LapTrinhDoHoaGame)
