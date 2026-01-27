@@ -40,6 +40,7 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 ## 🔹 Buổi 3 – Ray Tracing 
 - Làm rõ cách thuật toán Ray Tracing hoạt động và sử dụng trong kết xuất hình ảnh
 - Lập trình thuật toán Ray Tracing với các chức năng như Ray-Sphere Intersection, Perspective Camera, ...
+  
 **Slide bài giảng:**  
 
 **Bài tập, ví dụ minh học:**  
