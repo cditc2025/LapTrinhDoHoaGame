@@ -7,6 +7,7 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 
 - [Buổi 1 – Tổng quan chung](#-buổi-1--tổng-quan-chung)
 - [Buổi 2 – Tổng quan chung (tiếp)](#-buổi-2--tổng-quan-chung-tiếp)
+- [Buổi 3 – Ray Tracing](#-buổi-3--Ray-Tracing)
 
 ## 🔹 Buổi 1 – Tổng quan chung
 **Mục tiêu:**
@@ -36,6 +37,13 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - [Mô hình 3D - cube.obj](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi2_TongQuanChung_Tiep/cube.obj)
 ---
 
+## 🔹 Buổi 3 – Ray Tracing 
+- Làm rõ cách thuật toán Ray Tracing hoạt động và sử dụng trong kết xuất hình ảnh
+- Lập trình thuật toán Ray Tracing với các chức năng như Ray-Sphere Intersection, Perspective Camera, ...
+**Slide bài giảng:**  
+
+**Bài tập, ví dụ minh học:**  
+- [Code minh họa và bài tập](https://github.com/cditc2025/LapTrinhDoHoaGame/tree/main/Buoi3_RayTracing/Code_RayTracingExample)
 
 📌 GitHub Repository:  
 https://github.com/cditc2025/LapTrinhDoHoaGame
