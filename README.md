@@ -47,5 +47,15 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 **Bài tập, ví dụ minh học:**  
 - [Code minh họa và bài tập](https://github.com/cditc2025/LapTrinhDoHoaGame/tree/main/Buoi3_RayTracing/Code_RayTracingExample)
 
+## 🔹 Buổi 4 – Rasterization
+- Làm rõ cách thuật toán Rasterization hoạt động và sử dụng trong kết xuất hình ảnh
+- Lập trình thuật toán Rasterization với các chức năng như Model View Projection Transform, Barycentric coordinate, ...
+
+**Slide bài giảng:**  
+
+
+**Bài tập, ví dụ minh học:**  
+- [Code minh họa và bài tập](https://github.com/cditc2025/LapTrinhDoHoaGame/tree/main/Buoi4_Rasterization/Code_RasterizationExample)
+
 📌 GitHub Repository:  
 https://github.com/cditc2025/LapTrinhDoHoaGame
