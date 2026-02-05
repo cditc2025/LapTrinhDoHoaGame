@@ -8,6 +8,7 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - [Buổi 1 – Tổng quan chung](#-buổi-1--tổng-quan-chung)
 - [Buổi 2 – Tổng quan chung (tiếp)](#-buổi-2--tổng-quan-chung-tiếp)
 - [Buổi 3 – Ray Tracing](#-buổi-3--Ray-Tracing)
+- [Buổi 4 – Rasterization](#-buổi-4--Rasterization)
 
 ## 🔹 Buổi 1 – Tổng quan chung
 **Mục tiêu:**
