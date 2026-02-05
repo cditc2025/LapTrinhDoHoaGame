@@ -16,7 +16,7 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - Ôn tập lại một số kiến thức về Toán học trong Game
 
 **Slide bài giảng:**  
-- [Buổi 1: Tổng quan chung](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/Bu%E1%BB%95i%201_T%E1%BB%95ng%20quan%20chung.pptx)
+- [Buổi 1: Tổng quan chung](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/Bu%E1%BB%95i%201_T%E1%BB%95ng%20quan%20chung_final.pdf)
 
 **Tài liệu khác:**  
 - [Đề cương môn học](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi1_TongQuanChung/DE%20CUONG%20-%20Lap%20trinh%20do%20hoa%20game.docx)
@@ -30,7 +30,7 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - Lập trình tương tác va chạm, các phép biến đổi Affine (Translation, Rotation, Scale)
   
 **Slide bài giảng:**  
-- [Buổi 2: Tổng quan chung (tiếp)](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi2_TongQuanChung_Tiep/Bu%E1%BB%95i%202_T%E1%BB%95ng%20quan%20chung_ti%E1%BA%BFp.pptx)
+- [Buổi 2: Tổng quan chung (tiếp)](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi2_TongQuanChung_Tiep/Bu%E1%BB%95i%202_T%E1%BB%95ng%20quan%20chung_ti%E1%BA%BFp.pdf)
 
 **Bài tập, ví dụ minh học:**  
 - [Code minh họa và bài tập](https://github.com/cditc2025/LapTrinhDoHoaGame/tree/main/Buoi2_TongQuanChung_Tiep/Code_DuLieuHinhHoc_LapTrinhDoHoaGame)
@@ -42,6 +42,7 @@ Repository lưu trữ **slide bài giảng, tài liệu và mã nguồn** phục
 - Lập trình thuật toán Ray Tracing với các chức năng như Ray-Sphere Intersection, Perspective Camera, ...
   
 **Slide bài giảng:**  
+- [Buổi 3: Ray Tracing](https://github.com/cditc2025/LapTrinhDoHoaGame/blob/main/Buoi3_RayTracing/Ray%20tracing%20-%20final.pdf)
 
 **Bài tập, ví dụ minh học:**  
 - [Code minh họa và bài tập](https://github.com/cditc2025/LapTrinhDoHoaGame/tree/main/Buoi3_RayTracing/Code_RayTracingExample)
